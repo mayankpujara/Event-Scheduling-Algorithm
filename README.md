@@ -29,9 +29,9 @@ The simulation follows these steps:
 ## Example
 The provided example uses the following input parameters:
 
-Arrival times: [8, 6, 1, 8, 2,]
-Service times: [4, 1, 4, 3, 2, 4]
-Number of servers: 1
+- Arrival times: [8, 6, 1, 8, 2,]
+- Service times: [4, 1, 4, 3, 2, 4]
+- Number of servers: 1<br>
 After running the simulation, the code will output the results in a tabular format, showing events and future events.
 
 ## Author
